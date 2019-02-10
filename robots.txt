@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://wuejarur.amputação.com/sitemap.xml
